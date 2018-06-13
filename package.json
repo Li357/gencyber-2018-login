@@ -1,0 +1,13 @@
+{
+  "name": "gc-login-1",
+  "version": "1.0.0",
+  "description": "Login challenge for UNO's GenCyber CTF",
+  "main": "server.js",
+  "author": "Andrew Li",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3",
+    "pug": "^2.0.3"
+  }
+}
